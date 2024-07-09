@@ -1,0 +1,23 @@
+.selector{
+    background-color: lightgray;
+    height: 60px;
+    width: 380px;
+    margin: 40px 250px 0px 550px;
+    align-items: center;
+}
+.row div{
+    align-items: center;
+}
+.col-8 h1{
+    color: gray;
+}
+.row .col-4{
+    width: 40px;
+    background-color: grey;
+    margin: 10px 10px 0px 0px;
+}
+.row .col-8{
+    width: 320px;
+    background-color: aliceblue;
+    margin: 10px 0px 0px 10px;
+}
